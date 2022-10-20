@@ -1,0 +1,113 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.main-heading-of-page {
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: capitalize;
+    color: black;
+    font-size: 5.25vw;
+    line-height: 1.45;
+    letter-spacing: 0px;
+
+}
+.header-margin {
+    text-align: center;
+    margin: 6.70vh auto 6.70vh auto;
+}
+.text-orange {
+    color: #d09b5d;
+}
+.house-description {
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    color: black;
+    font-size: 3vw;
+    line-height: 1.45;
+    letter-spacing: 0px;
+    padding:5.72vw 2.92vw 5.7vw 2.92vw;
+}
+.glass-house-text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    color: black;
+    font-size: 2.5vw;
+    line-height: 1.25;
+    letter-spacing: 0.1px;
+    padding: 6.70vw 3.19vw 6.70vw 3.19vw;
+}
+.bg-black {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 5.53vw;
+    margin-bottom: 3.25vw;
+}
+.font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    color: black;
+    font-size: 2.5vw;
+    line-height: 1.25;
+    letter-spacing: 0.1px;
+}
+.last-section-paddint-bottom-top {
+    margin-top: 3.51vw;
+    margin-bottom: 6.83vw;
+    padding: 0px 3.25vw;
+}
+.text-decoration {
+    color: black;
+}
+.last-section-div-font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    color:black;
+    font-size: 1.25vw;
+    line-height: 1.45;
+    letter-spacing: 0.5px;
+}
+.maring-last-section-right-side {
+    margin: 4px;
+}
+.last-section-image-padding {
+    padding: 0.97vw;
+}
+.last-section-right-side {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:400;
+    font-style: normal;
+    text-transform: none;
+    color: black;
+    font-size: 1.25vw;
+    line-height: 1.45;
+    letter-spacing: 0.5px;
+}
+.image-size {
+    width: 100vw;
+    max-width: 100%;
+}
+
+.image-width-last-section{
+    width: 85vw;
+    max-width: 85%;
+}
+
+@media screen and (max-width:540px) {
+    .col-sm-6  {
+        font-size: 2.25vw;
+    }
+    
+  }
+
